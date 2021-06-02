@@ -1,0 +1,9 @@
+{
+    "name": "ProvenonceID",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/react": true,
+        "/category/onchain/core-token": true
+    }
+}
